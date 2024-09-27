@@ -7,16 +7,20 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+My name is Joseph Bernier Morillon (he/him) and my favorite types of games are platformers (Hollow Knight, Celeste) and turn-based RPGs (Persona, Octopath, Fire Emblem, Dragon Quest), but I also enjoy shooter and sandbox games with my brother. My main reason for taking this class is to have the skills to be a game programmer. My past experience with game development involved making a game demo for my final project in a high school app development class. I created a 2D action-platformer game with working sound effects, multiple levels, enemy chasing, and a janky grappling mechanic. I also dabbled a little bit in making a working 3D scene, but I only developed the player movement and attack animations. I'm hoping that I can expand upon 3D game development in this major. 
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
+    - [ ] Game Design & Interactive Media is my major
+    
 
 3. What are you hoping to get out of this class?
+
+I'm hoping to learn how to work on games as a group, to learn how to prototype games quickly and effectively, and how to organize my folders, scripts, hiearchy, etc. 
+
 4. What, if anything, are you nervous about for this class?
+
+I am mostly nervous about citing open-source assets/code, and falling behind due to being stuck at a bug. 
 
 ## Prior Experience
 
@@ -26,9 +30,15 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+Java, C#, a little bit of Python and HTML
+
 2. Game development (any engine)
 
+    Unity
+
 3. Unity
+
+Made a 2D game with levels and a 3D space with attack and movement animations.
 
 ### Programming & Game Development Concepts
 
@@ -41,13 +51,23 @@ For the next questions, a programming or game development concept is presented:
 
 1. Game design document
 
+N/A
+
 2. Scope management
+
+Planning so that the game's vision is clear and won't be so complex that it can't be completed by a deadline. 
 
 3. Iteration
 
+Testing and recreating/modifying the game multiple times, improving the build with each phase.
+
 4. Object-Oriented programming
 
+Not 100% sure, but it involves using classes that you reference/create which are dependent on other objects to carry out a task. 
+
 5. Model-View-Controller architecture
+
+N/A
 
 ## Complete!
 
